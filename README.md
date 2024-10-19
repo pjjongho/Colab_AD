@@ -8,5 +8,6 @@
   <li>통신사 이탈 유저 예측</li>
   <li>온라인 결제 사기거래 탐지</li>
   <li>웹 사이트 트래픽 이상탐지</li>
-  <li></li>
+  <li>불균형 캐릭터 이상탐지</li>
+  <li>Server Shutdown Anomaly Detection</li>
 </ol>
